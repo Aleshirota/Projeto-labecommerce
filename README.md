@@ -24,8 +24,8 @@ Aplicação Back-end de servidor express com banco de dados sqlite3, se trata de
 - [x] Get all users
 - [x] Create user
 - [x] Create product
-- [x] Get all products funcionalidade 1
-- [x] Get all products funcionalidade 2
+- [x] Get all products com todos os produtos cadastrados
+- [x] Get all products com uma query params (q)retorna o resultado da busca de produtos por nome
 - [x] Edit product by id
 - [x] Create purchase
 - [x] Delete purchase by id
@@ -35,15 +35,8 @@ Aplicação Back-end de servidor express com banco de dados sqlite3, se trata de
 
 - README.md
 
-# EndPoints
-
-- Get all users
-- Create user
-- Create product
-- Get all products com todos os produtos cadastrados
-- Get all products com uma query params (q)retorna o resultado da busca de produtos por nome.
-
 ### Documentação
+
 https://documenter.getpostman.com/view/24460930/2s8ZDeUeeT
 
 
